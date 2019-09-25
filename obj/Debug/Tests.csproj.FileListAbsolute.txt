@@ -1,0 +1,2 @@
+C:\Users\gregc\Desktop\real world sim stuff\P0\RWM-P0-C00216328\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\gregc\Desktop\real world sim stuff\P0\RWM-P0-C00216328\obj\Debug\Tests.csproj.CoreCompileInputs.cache
