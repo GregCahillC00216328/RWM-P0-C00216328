@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2019-09-25 10:57:38Z" end-time="2019-09-25 10:57:38Z" duration="0.0859418">
+  <test-suite type="TestSuite" id="1000" name="RWM-P0-C00216328" fullname="RWM-P0-C00216328" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-09-25 10:57:38Z" end-time="2019-09-25 10:57:38Z" duration="0.085942" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1003" name="Tests.dll" fullname="C:/Users/gregc/Desktop/real world sim stuff/RWM-P0-C00216328/Library/ScriptAssemblies/Tests.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-09-25 10:57:38Z" end-time="2019-09-25 10:57:38Z" duration="0.063129" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="7992" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+      </properties>
+      <test-suite type="TestSuite" id="1004" name="Tests" fullname="Tests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-09-25 10:57:38Z" end-time="2019-09-25 10:57:38Z" duration="0.056836" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestFixture" id="1001" name="RunningTotalTest" fullname="Tests.RunningTotalTest" classname="Tests.RunningTotalTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-09-25 10:57:38Z" end-time="2019-09-25 10:57:38Z" duration="0.046403" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <output><![CDATA[You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent(). Alternatively, your script can inherit from ScriptableObject or no base class at all
+]]></output>
+          <test-case id="1002" name="RunningTotalTestSimplePasses" fullname="Tests.RunningTotalTest.RunningTotalTestSimplePasses" methodname="RunningTotalTestSimplePasses" classname="Tests.RunningTotalTest" runstate="Runnable" seed="576174591" result="Passed" start-time="2019-09-25 10:57:38Z" end-time="2019-09-25 10:57:38Z" duration="0.023636" asserts="0">
+            <properties />
+            <output><![CDATA[1
+4
+9
+16
+25
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
